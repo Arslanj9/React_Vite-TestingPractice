@@ -6,10 +6,6 @@ This project is a test environment for practicing unit testing in React using Vi
 
 1. [Project Setup](#project-setup)
 2. [Testing Libraries](#testing-libraries)
-3. [Installation Guide](#installation-guide)
-4. [Writing a Test](#writing-a-test)
-5. [Running Tests](#running-tests)
-6. [References](#references)
 
 ---
 
