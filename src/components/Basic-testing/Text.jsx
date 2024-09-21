@@ -5,7 +5,7 @@ function Text() {
     return (
       <>
         <div>
-        <h1>Vite</h1>
+          <h1>Vite</h1>
         </div>
       </>
     )
