@@ -1,8 +1,11 @@
-# React + Vite
+# Testing with Vite, Vitest, React Testing Library, Happy DOM, and Jest-DOM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is focused on practicing unit testing in a React environment using a combination of tools, including Vite for fast builds, Vitest for test running, and libraries like React Testing Library, Happy DOM, and Jest-DOM for DOM manipulation and assertions.
 
-Currently, two official plugins are available:
+## Tools and Libraries Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Vite**: Fast build tool for modern web projects.
+- **Vitest**: A blazing fast unit test framework with a similar API to Jest.
+- **React Testing Library**: Testing library focused on testing React components from a user's perspective.
+- **Happy DOM**: A fast and minimalistic DOM environment for running tests in Node.js.
+- **Jest-DOM**: Custom jest matchers for asserting on DOM nodes.
