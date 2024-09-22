@@ -21,7 +21,7 @@ describe('API Component', () => {
   });
 
   // 1
-  it("should contain the text 'User List'", async () => {
+  it("checks for username 'Leane Graham' and renders the first user item with the correct name 'Leanne Graham'", async () => {
     render(<API />);
 
     const userItem0 = await screen.findByTestId('user-item-0');
@@ -30,7 +30,7 @@ describe('API Component', () => {
   });
 
   // 2
-  it("should contain the text: User List", async () => {
+  it("displays the user 'Arslan' in the user list", async () => {
     render(<API />);
 
     const element = await screen.findByText("Arslan")
